@@ -1,0 +1,19 @@
+{
+  "name": "firstgame",
+  "version": "1.0.0",
+  "description": "this is me , writing a program",
+  "main": "index.js",
+  "dependencies": {
+    "electron": "^5.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/karank0299"
+  },
+  "author": "karan kumar",
+  "license": "MIT"
+}
